@@ -1,3 +1,3 @@
 # test
 
-I like svn!
+I like svn and git!
